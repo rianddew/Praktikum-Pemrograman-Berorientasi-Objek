@@ -1,5 +1,5 @@
 # Praktikum-Pemrograman-Berorientasi-Objek
-Modul 1: 
+Modul 1: Pengenalan Java
 Modul 2:
 Modul 3:
 Modul 4:
